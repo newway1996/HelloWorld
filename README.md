@@ -1,2 +1,2 @@
 # HelloWorld
-newway's first repository.
+Newway's first repository.
